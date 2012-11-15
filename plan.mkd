@@ -1,0 +1,17 @@
+# ConditionBot plan
+
+Filter lists by type
+[--]
+
+Add new exercise to lists
+[--]
+
+Sort lists by practice/workout
+[--]
+
+Put number counters by exercises
+[--]
+
+
+
+
