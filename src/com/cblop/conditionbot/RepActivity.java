@@ -1,6 +1,5 @@
 package com.cblop.conditionbot;
 
-
 import java.util.List;
 import java.util.Random;
 
